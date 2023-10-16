@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "324966585770",
+    "project_id": "cs481-7dc63",
+    "storage_bucket": "cs481-7dc63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324966585770:android:6bfca37418594d0bd907d3",
+        "android_client_info": {
+          "package_name": "com.example.assignment4_angelsamora_ragirzebari"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ9nRXm20PKa7nldS5CeuQBEnUlu6JiO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324966585770:android:0f799abdb3bc9206d907d3",
+        "android_client_info": {
+          "package_name": "com.example.cs481firebasedb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ9nRXm20PKa7nldS5CeuQBEnUlu6JiO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324966585770:android:90db906b197d4cd9d907d3",
+        "android_client_info": {
+          "package_name": "com.example.firebase_angelsamora_ragirzebari"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ9nRXm20PKa7nldS5CeuQBEnUlu6JiO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
